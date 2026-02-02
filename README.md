@@ -4,7 +4,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/araujocaio_2/)  
 
 💻 Backend Developer in progress, passionate about creating scalable and high-performance applications.
+
 📚 Studying Java and Spring Boot, while strengthening my Front-End skills with HTML, CSS, JavaScript, and React.
+
 🚀 Focused on continuous learning, real-world projects, and getting ready for my first professional role in tech**.  
 
 ---
