@@ -3,9 +3,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-henrique-3b54382ba/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/araujocaio_2/)  
 
-💻 I’m an aspiring **Backend Developer** passionate about building **efficient** and **scalable** solutions.  
-📚 Currently studying **Java** and **Spring Boot**, while improving my **Front-End** skills with **HTML**, **CSS**, **JavaScript**, and **React**.  
-🚀 Focused on developing problem-solving skills and preparing for my **first tech industry opportunity**.  
+💻 Backend Developer in progress, passionate about creating scalable and high-performance applications.
+📚 Studying Java and Spring Boot, while strengthening my Front-End skills with HTML, CSS, JavaScript, and React.
+🚀 Focused on continuous learning, real-world projects, and getting ready for my first professional role in tech**.  
 
 ---
 
